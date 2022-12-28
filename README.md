@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a Cloud and Devops Engineer. A collection of my activities, projects, and a reservoir where I quickly learn new tech and test ideas. 
 
-My creds:
 
-https://www.credly.com/badges/0c1adb62-c37b-4c6b-93b5-62fae4fdf25e/public_url
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
