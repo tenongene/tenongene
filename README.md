@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Cloud and Devops Engineer. A collection of my activities, projects, and a reservoir where I quickly learn new tech and test ideas. 
+I am a Cloud and Devops Engineer. A collection of my activities, projects, and a reservoir for learning new tech and testing new ideas. 
 
 
 
