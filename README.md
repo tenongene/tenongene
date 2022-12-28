@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 I am a Cloud and Devops Engineer. A collection of my activities, projects, and a reservoir for learning new tech and testing new ideas. 
 
 
+My badges:
 
-<!--START_SECTION:badges-->
-```html
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0c1adb62-c37b-4c6b-93b5-62fae4fdf25e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-```
-<!--END_SECTION:badges-->
+![ckad_](https://user-images.githubusercontent.com/49034904/209883044-41aba2bb-0911-4883-87bd-ef3495acbe4d.png)
+
