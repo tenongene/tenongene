@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 I am a Cloud and Devops Engineer. A collection of my activities, projects, and a reservoir for learning new tech and testing new ideas. 
 
 
-My badges:
 
 
-
-==========================================================
+Badges:
 
 ![image](https://user-images.githubusercontent.com/49034904/209883128-42db5b3c-b294-4fe4-8401-542a99a9237f.png)   ![image](https://user-images.githubusercontent.com/49034904/209883190-78fa6506-42ed-4708-a6bb-39254aca67fe.png)
 
