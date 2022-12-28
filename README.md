@@ -19,4 +19,5 @@ I am a Cloud and Devops Engineer. A collection of my activities, projects, and a
 
 
 <!--START_SECTION:badges-->
+
 <!--END_SECTION:badges-->
