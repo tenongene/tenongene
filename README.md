@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a Cloud and Devops Engineer. A collection of my activities, projects, and a reservoir where I quickly learn new tech and test ideas. 
+
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
