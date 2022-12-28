@@ -18,7 +18,7 @@ I am a Cloud and Devops Engineer. A collection of my activities, projects, and a
 
 My creds:
 
-###<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0c1adb62-c37b-4c6b-93b5-62fae4fdf25e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/0c1adb62-c37b-4c6b-93b5-62fae4fdf25e/public_url
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
